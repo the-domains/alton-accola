@@ -1,0 +1,28 @@
+name: alton accola
+favicon: null
+layout_spectrum: 0.14853816316463053
+typography_spectrum: 0.03346298774704337
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3701919575687498
+  lightness: 0.322570318588987
+  saturation: 0.7782631248701364
+  rhythmicContrast: 0.1035054731182754
+purpose: []
